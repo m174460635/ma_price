@@ -320,10 +320,6 @@ https://3a8dc44d91c895b6941bc0e5ed3ad768.v.smtcdns.net:443/txycdn.video.qq.com/7
 
 
 
-#EXTINF:-1 group-title="网络", 油管中天(新闻)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653228011/ei/i-2JYrbbC-Pdz7sP6Z6kmAs/ip/51.79.193.132/id/_QbRXRnHMVY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVC6esVnahS7gPI2c1jqZVKgnAJwzbx5vIOM9S3Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMSUUPQNdxUu_nZ7Q7vh0SqEyTRVsa1fFnOEhblz7YQyAiAy-KBlPC2hKcgwYHa94ljUBm95zwSBLQCJTpw7Rb4pcg%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="网络", 油管凤凰秀(新闻)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653228233/ei/ae6JYvKwAaylz7sP0pCv8As/ip/51.79.193.132/id/PNtdyKgGf3M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVC_uC1y8NTi2kN3mYzPNUyzbEIZoZK03ifwUAHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALQR6AXhKNiUZr5xbOazw6UyvEq0WIJPiAlSF7B-zD_6AiB2kddgncAFZE5a87OhUI42NG0owKLGlF_jH--6zMtvUQ%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="网络", 虎牙狼人杀
 https://al.flv.huya.com/src/1099531840884-1099531840884-86814637810515968-2199063805224-10057-A-0-1.flv?wsSecret=81223163c86f70ff07cecfa938197ae1&wsTime=6289dec1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103
 #EXTINF:-1 group-title="网络", 虎牙德云社(相声)
