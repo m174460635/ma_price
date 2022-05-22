@@ -318,47 +318,49 @@ https://3a8dc44d91c895b6941bc0e5ed3ad768.v.smtcdns.net:443/txycdn.video.qq.com/7
 
 
 
-#EXTINF:-1 group-title="网络", 油管中天新闻
+#EXTINF:-1 group-title="网络", 油管中天(新闻)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653228011/ei/i-2JYrbbC-Pdz7sP6Z6kmAs/ip/51.79.193.132/id/_QbRXRnHMVY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVC6esVnahS7gPI2c1jqZVKgnAJwzbx5vIOM9S3Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMSUUPQNdxUu_nZ7Q7vh0SqEyTRVsa1fFnOEhblz7YQyAiAy-KBlPC2hKcgwYHa94ljUBm95zwSBLQCJTpw7Rb4pcg%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="网络", 油管凤凰秀
+#EXTINF:-1 group-title="网络", 油管凤凰秀(新闻)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653228233/ei/ae6JYvKwAaylz7sP0pCv8As/ip/51.79.193.132/id/PNtdyKgGf3M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVC_uC1y8NTi2kN3mYzPNUyzbEIZoZK03ifwUAHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALQR6AXhKNiUZr5xbOazw6UyvEq0WIJPiAlSF7B-zD_6AiB2kddgncAFZE5a87OhUI42NG0owKLGlF_jH--6zMtvUQ%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="网络", 虎牙狼人杀
 https://al.flv.huya.com/src/1099531840884-1099531840884-86814637810515968-2199063805224-10057-A-0-1.flv?wsSecret=81223163c86f70ff07cecfa938197ae1&wsTime=6289dec1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103
-#EXTINF:-1 group-title="网络", 虎牙英雄联盟赛事
+#EXTINF:-1 group-title="网络", 虎牙德云社(相声)
+https://al.flv.huya.com/src/1445837627-1445837627-7095725352446547523-4392905662-10057-A-1652102465-1.flv?wsSecret=c1fa624e6504785d0f1ae97232b18ca8&wsTime=628b5bd9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103
+#EXTINF:-1 group-title="网络", 虎牙英雄联盟赛事(lol)
 https://al.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=4bab93689099fd7c84647381f0171a4d&wsTime=628b2efb&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:-1 group-title="网络", 斗鱼惊悚
+#EXTINF:-1 group-title="网络", 斗鱼惊悚(电影)
 https://akm-tct.douyucdn.cn/live/96577r7lbdnOIWrX.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼科幻动作
+#EXTINF:-1 group-title="网络", 斗鱼科幻动作(电影)
 https://akm-tct.douyucdn.cn/live/252802rsjQDJNP2i.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼科幻喜剧
+#EXTINF:-1 group-title="网络", 斗鱼科幻喜剧(电影)
 https://akm-tct.douyucdn.cn/live/4332ry0OocHgMnua.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼港剧
+#EXTINF:-1 group-title="网络", 斗鱼港剧(电影)
 https://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼冰冰电影
+#EXTINF:-1 group-title="网络", 斗鱼冰冰电影(电影)
 https://akm-tct.douyucdn.cn/live/74374rxBWPJfW7Gd.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼游戏剧情系列
-https://akm-tct.douyucdn.cn/live/10401475r0T63B4Y.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼小片片说大片
-https://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼60帧 极致蓝光
+#EXTINF:-1 group-title="网络", 斗鱼60帧 极致蓝光(电影)
 https://akm-tct.douyucdn.cn/live/747764riNLjASiKM.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼牛叔说电影
+#EXTINF:-1 group-title="网络", 斗鱼游戏剧情系列(游戏解说)
+https://akm-tct.douyucdn.cn/live/10401475r0T63B4Y.flv?uuid=
+#EXTINF:-1 group-title="网络", 斗鱼小片片说大片(电影解说)
+https://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.flv?uuid=
+#EXTINF:-1 group-title="网络", 斗鱼牛叔说电影(电影解说)
 https://akm-tct.douyucdn.cn/live/2758565r0wCVKZTj.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼锤子
+#EXTINF:-1 group-title="网络", 斗鱼锤子(csgo)
 https://akm-tct.douyucdn.cn/live/293829rQRs7AEkbG.flv?uuid
-#EXTINF:-1 group-title="网络", 虎牙ququ
+#EXTINF:-1 group-title="网络", 虎牙ququ(csgo)
 https://al.flv.huya.com/src/745373351-745373351-3201354165854928896-1490870158-10057-A-0-1-imgplus.flv?wsSecret=e3e587fdae529de617b43c9966174b06&wsTime=628a43ce&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:-1 group-title="网络", b站德云
+#EXTINF:-1 group-title="网络", b站德云(csgo)
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/799022/live_384942089_80975535_prohevc/index.m3u8?expires=1653193664&len=0&oi=22259999&pt=web&qn=10000&trid=1007a0a5caa151674f6b9109e735b84a385e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=25d18046f0a0c7df8cf476cd470796d1&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=57601&sl=3&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=83f34f68836d91f52b83602ea3b0fed9
-#EXTINF:-1 group-title="网络", b站捏捏
+#EXTINF:-1 group-title="网络", b站捏捏(csgo)
 https://d1--cn-gotcha208.bilivideo.com/live-bvc/625153/live_13885498_9196746/index.m3u8?expires=1653145915&len=0&oi=22241308&pt=web&qn=10000&trid=1007d6ae3088a8444416a7aa95ebd3d9a937&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=bc4c130140f5a9d17fa0e0142b05ba9a&sk=ee656122d807a63617531bc3ec062fcb&p2p_type=1&src=852096&sl=2&free_type=0&flowtype=0&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=015c95e133d07a7e744df14c6c07cb68
-#EXTINF:-1 group-title="网络", 斗鱼寅子
+#EXTINF:-1 group-title="网络", 斗鱼寅子(游戏)
 https://akm-tct.douyucdn.cn/live/71415ryinzitv.flv?uuid=
-#EXTINF:-1 group-title="网络", 斗鱼女流
+#EXTINF:-1 group-title="网络", 斗鱼女流(游戏)
 https://akm-tct.douyucdn.cn/live/156277rzaCAF1aHo.flv?uuid=
-#EXTINF:-1 group-title="网络", 虎牙风行云
+#EXTINF:-1 group-title="网络", 虎牙风行云(游戏)
 https://al.flv.huya.com/src/1678113423-1678113423-7207442270763614208-3356350302-10057-A-0-1-imgplus.flv?wsSecret=5808f24f924db3bb707f1bc05865df2e&wsTime=6289de4c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aczeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:-1 group-title="网络", twitch-lolpacifictw
+#EXTINF:-1 group-title="网络", twitch-lolpacifictw(lol)
 https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CrsF6twB0R14lOMSNF2NM7dNSee8qOiyDUQduN4V-_o2uGwtn9oV6s4PSAU-Vao6PJseAk230KUv6aLFrVPcdPv7AW_yXcKtgmmP1JgiDHi9UNgTYy8KuX5YE3ElroStiWNqynrQ6v7rpw2b63Fecif8TQHuma4FmGogl5LtnQuRFk1bho8B7vOS2buC-HmoQ69KTeTVHPSvdjt8rfN_Vo3l4eoB23SDf_Zq1Bo3tLBA1qDbSegKB9KrlXBJgmZbPBPO8LGar_o4kV1Mg0ngMYV83Fv5LC6UyzepNSUzcOV7gRlEH6Xw-lcUlI316gd2zaKQQLDuDgpF9ViMSjyS__20cQiMKDzGTzfxRcZmM_YQtgSUzsQE2cUlNN1r2dHGFEbYLI6cO2AOuEwxLqoHENecxbvw_cU4XVCEHWLkyMdPvk715M-k0xooUFVSI9y0aVr1xc5gEJ5afqqSnGoZuqOvVqyPNnW2YF6skr9mPJgdzOf1_3ODHn_Z8inOndYrMXgb8imRTnrvjE8OL6iXynvrp3vPYgTnVz_POS9q-8S1E3XDxPbIgg8pKDgyjTqQ3swvcRstDkGPQ1mgzmJnOlo0i_9SgoQ1jxhtaZNFWbx_Ug5Od9VJlITOgnfAoKxC7Oq4029oTyphLCvHBYaXF0LWVG9SC4HSwQsnyLo1nYQ368tWMldav0ASCUCzJzq2WC_rKI-jp_bVS5dflw2nawu7khdMvPPulS-LZrcrNYTwl2U1m-tlhWNDd1HLCjN6aM64pjeOYdaNuHJaWw8zQbXYocdyp8Z4q1vSp8XKDL0lgfUb4mimSB9zEKLw5fzR1tzm3bjcWwbGLsQpEHJNu8vX14ctgo4LafJ1FxlmR23-k3RnEWTW3FbZeU9w1lZFQnyh3DgBkRbx4yEpbrcGb7fcWE8catpG7Y0E7OWAGgzUE31RZjNfteGEkE8gASoJdXMtd2VzdC0yMOID.m3u8
-#EXTINF:-1 group-title="网络", twitch-esl_csgo
+#EXTINF:-1 group-title="网络", twitch-esl_csgo(csgo)
 https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CqgFA5CjZPU26ZxfQR37USmcHpJPqFHPGG_pJoqmYtbbV_4irHhjrEsUAlR5IbFX-PFVoKH7pybUxtdLV9gpnpk88Em-GICgH6tv1r78Fzbf98uKEnvRjAe8JtPycAenlBnHuy__opb0szE9Drxf3hnfMF6mHVO5PWkVrk8NppZGTS7eKfnxWm_e4qbdKqkZWYG_KkMVyWwNgDrBs00dtJX-Oiz7eYeH-yq0fVQ5nnIQCoYr5mrC2x-18KsU4akHEOlAcW6LWe6rRtyAWJCIdSqSdpb-i7wewnDw4HdLjX3pSlDva2sYt8dY__d6tbGI-1Rc_fqAZV0LylenWBRm0jL2JPLsUYwtaaTG0caDPY9s4ewFTs77Su2GkPgBVTnbHgLGIrXWwHfgjuRMm_yVOglSU1sNq9JvbP6gMXot8OEvaacuPOE0MJLF4pJrpeP4yV4Al2mRwGW3u60cFnPeOqg8AmdRj-gQ_F_IRpCEntAXTHIs-0TBBA8o-WXPsq1eNJvz6Ry0yHe5wpZ9_D5tToCVoBXbh2Hg8UF6hkfxu14yMTqx7k6_zpAdam5soZ0-E2aou3td8ek4SDBVvHthB0Sh0lYRuPOOvedSxRjFOrTpK6zEdgPdIg4GXy6Y-sVtoOl77oRC8X9-GgBR3xaIR7K_uSP6J5gA0VoN3yVVOx7cmES-C-IaAgE6PjYnfxRULDfsjUtH6h0HPavP0-PUyzZCU6EoOrHHdp0LsWXkmOvNtZ3H9XJeHJHirW65GFQzg9Tsamz0pGEnZQex6pJsulUHSuWjLw43nbPR2UsOglEDVSuaTeBHxNh2lZ5zdqiJlBBVlx5Tfj3gXYT95qLCndChgbq_U2n-ZVbJlEab9wCuqJFrCgHpRAwS2IAToDTdDQrwbT-7m0xZ3icaDH3UZ7DgiYQJi4AetiABKglldS13ZXN0LTIw4wM.m3u8
