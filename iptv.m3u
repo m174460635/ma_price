@@ -214,8 +214,8 @@ http://[2409:8087:1070:301:2028::1d]:80/wh7f454c46tw4198640066_-958484735/gslbse
 http://[2409:8087:4402:20:1:1216:401:3d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="教育学习",国学频道
 http://[2409:8087:4402:20:1:1216:401:44]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-http://[2409:8087:1020:301:2026::15]:80/wh7f454c46tw4054309783_-770004603/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225718/10000100000000060000000000000755_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育学习",百变课堂
+http://[2409:8087:1020:301:2026::19]:80/wh7f454c46tw4054603901_-394925117/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225719/10000100000000060000000000000756_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="教育学习",中国教育1台
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063289/main.m3u8?IASHttpSessionId=OTT
 
@@ -224,7 +224,6 @@ http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063289/m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",黑莓电影高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jdianying/.m3u8
-http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jiatingjc/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",爱情喜剧高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/aiqingxj/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",动作电影高清
@@ -239,7 +238,7 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",热门剧场
-http://[2409:8087:1020:301:2026::19]:80/wh7f454c46tw4054603901_-394925117/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225719/10000100000000060000000000000756_0.smil/01.m3u8?fmt=ts2hls
+http://[2409:8087:1020:301:2026::15]:80/wh7f454c46tw4054309783_-770004603/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225718/10000100000000060000000000000755_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",热播剧场
 http://[2409:8087:1020:301:2026::14]:80/wh7f454c46tw4053151100_-799279966/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225714/10000100000000060000000000000751_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",超级电视剧高清
@@ -252,7 +251,8 @@ http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/junlvjc/.m3u8
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jdaju/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",古装剧场高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/guzhuangjc/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",家庭剧场高清.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",家庭剧场高清
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jiatingjc/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京IPTV淘剧场" tvg-logo=""  group-title="剧场", 北京IPTV淘剧场
 http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="剧场",都市剧场
