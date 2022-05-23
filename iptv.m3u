@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",纯享4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptv4k.png" group-title="4k",北京IPTV4K超清
@@ -60,7 +60,8 @@ http://[2409:8087:1020:301:2026::2d]:80/wh7f454c46tw4120083044_-967478376/gslbse
 
 
 
-
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="卫视",无线新闻台
+https://tvfix.woodong.workers.dev/hls/inews.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视",凤凰中文
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",凤凰资讯
@@ -236,6 +237,8 @@ http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jingsongxy/.m3u8
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV06/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京IPTV淘电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png"  group-title="电影", 北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",CINEMAX(普通话简体)
+https://tvfix.woodong.workers.dev/hls/cinemax4.m3u8
 
 
 
@@ -309,8 +312,8 @@ http://[2409:8087:1050:301:2026::12]:80/wh7f454c46tw4122938034_1842780243/gslbse
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV05/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",体育赛事
 http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tnt体育" tvg-logo="" group-title="体育赛事",tnt体育
-https://d1agn6yv8q3970.cloudfront.net/hls/TNT/playlist.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育赛事",五星体育高清
+https://tvfix.woodong.workers.dev/hls/wxtyhd.m3u8
 
 
 
