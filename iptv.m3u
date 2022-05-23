@@ -294,38 +294,37 @@ http://[2409:8087:1070:301:2028::14]:80/wh7f454c46tw4199228204_-1244210596/gslbs
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",黑莓电竞高清
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电竞" tvg-logo="" group-title="体育赛事",黑莓电竞高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/wmyx/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="体育赛事",咪咕精彩足球
+#EXTINF:-1 tvg-id="" tvg-name="咪咕精彩足球" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="体育赛事",咪咕精彩足球
 http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",咪咕综合体育
+#EXTINF:-1 tvg-id="" tvg-name="咪咕综合体育" tvg-logo="" group-title="体育赛事",咪咕综合体育
 http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="体育赛事",游戏风云
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育赛事",极速汽车
 http://[2409:8087:4400:20:1:a0f:12:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",精品体育高清
+#EXTINF:-1 tvg-id="" tvg-name="精品体育" tvg-logo="" group-title="体育赛事",精品体育高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jtiyu/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",足球
 http://[2409:8087:1050:301:2026::12]:80/wh7f454c46tw4122938034_1842780243/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225764/10000100000000060000000000000836_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",超级体育高清
+#EXTINF:-1 tvg-id="" tvg-name="超级体育" tvg-logo="" group-title="体育赛事",超级体育高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV05/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育赛事",体育赛事
+#EXTINF:-1 tvg-id="" tvg-name="体育赛事" tvg-logo="" group-title="体育赛事",体育赛事
 http://[2409:8087:4402:20:1:1216:401:2e]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226567/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育赛事",五星体育高清
-https://tvfix.woodong.workers.dev/hls/wxtyhd.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://n.ysyz.top:99/buyaolian/jbty.png" group-title="体育赛事",劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 
 
 
 
 
-
-#EXTINF:-1 group-title="网络", 虎牙狼人杀
-https://al.flv.huya.com/src/1099531840884-1099531840884-86814637810515968-2199063805224-10057-A-0-1.flv?wsSecret=81223163c86f70ff07cecfa938197ae1&wsTime=6289dec1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103
 #EXTINF:-1 group-title="网络", 虎牙德云社(相声)
-https://al.flv.huya.com/src/1445837627-1445837627-7095725352446547523-4392905662-10057-A-1652102465-1.flv?wsSecret=c1fa624e6504785d0f1ae97232b18ca8&wsTime=628b5bd9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103
+https://al.flv.huya.com/src/1445837627-1445837627-7095725352446547523-4392905662-10057-A-1652102465-1.flv?ratio=500&wsSecret=946ffc61051e8e29cea5f2f6ab1d833f&wsTime=628cf965&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&ratio=2000
 #EXTINF:-1 group-title="网络", 虎牙英雄联盟赛事(lol)
-https://al.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=4bab93689099fd7c84647381f0171a4d&wsTime=628b2efb&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+https://al.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=d3db1c3a8289f710c217d13aa1073ddf&wsTime=628cf9b4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 #EXTINF:-1 group-title="网络", 斗鱼惊悚(电影)
 https://akm-tct.douyucdn.cn/live/96577r7lbdnOIWrX.flv?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼科幻动作(电影)
@@ -361,4 +360,4 @@ https://akm-tct.douyucdn.cn/live/156277rzaCAF1aHo.flv?uuid=
 #EXTINF:-1 group-title="网络", 虎牙风行云(游戏)
 https://al.flv.huya.com/src/1678113423-1678113423-7207442270763614208-3356350302-10057-A-0-1-imgplus.flv?wsSecret=d84927aaedafa756f9c8c93a83733f4c&wsTime=628baab2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An112%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 #EXTINF:-1 group-title="网络", 虎牙坏空空(跳舞)
-http://al.flv.huya.com/src/1259553301717-1259553301717-4844224846437023744-2519106726890-10057-A-0-1.flv?wsSecret=013db8bfd06852edce4e6abd22b9afb4&wsTime=628a581c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+https://al.flv.huya.com/src/1259553301717-1259553301717-4844224846437023744-2519106726890-10057-A-0-1.flv?wsSecret=10759f4f4b9d20122344cee8ef5cc63f&wsTime=628cf927&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
