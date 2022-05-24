@@ -322,9 +322,9 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 
 
 #EXTINF:-1 group-title="网络", 虎牙德云社(相声)
-https://al.flv.huya.com/src/1445837627-1445837627-7095725352446547523-4392905662-10057-A-1652102465-1.flv?ratio=500&wsSecret=946ffc61051e8e29cea5f2f6ab1d833f&wsTime=628cf965&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&ratio=2000
+https://al.flv.huya.com/src/1445837627-1445837627-7095725352446547523-4392905662-10057-A-1652102465-1.flv?wsSecret=5954e6fe67836f4aff76e142d9cb03e4&wsTime=628c5f7a&uuid=&uid=1463993859134&seqid=3117356909267&ratio=4000&txyp=&fs=bgct&ctype=tars_mobile&ver=1&t=103&sv=2107230339&sphdDC=huya&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphd=264_*-265_*
 #EXTINF:-1 group-title="网络", 虎牙英雄联盟赛事(lol)
-https://al.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=d3db1c3a8289f710c217d13aa1073ddf&wsTime=628cf9b4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+https://hw.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=d2197140a2b474996f1e7aba74743492&wsTime=628c6274&uuid=&uid=1463993859134&seqid=3117357672094&ratio=4000&txyp=o%3Ad3%3B&fs=bgct&ctype=tars_mobile&ver=1&t=103&sv=2107230339&sphdDC=huya&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphd=264_*-265_*
 #EXTINF:-1 group-title="网络", 斗鱼惊悚(电影)
 https://akm-tct.douyucdn.cn/live/96577r7lbdnOIWrX.flv?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼科幻动作(电影)
@@ -344,15 +344,11 @@ https://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.flv?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼牛叔说电影(电影解说)
 https://akm-tct.douyucdn.cn/live/2758565r0wCVKZTj.flv?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼锤子(csgo)
-https://akm-tct.douyucdn.cn/live/293829rQRs7AEkbG.flv?uuid=
+https://akm-tct.douyucdn.cn/live/293829rQRs7AEkbG.xs?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼玩机器(csgo)
-https://akm-tct.douyucdn.cn/live/6979222rWZjs15qo.flv?uuid=
+https://akm-tct.douyucdn.cn/live/6979222rLqzQfd2A.xs?uuid=
 #EXTINF:-1 group-title="网络", 虎牙ququ(csgo)
 https://al.flv.huya.com/src/745373351-745373351-3201354165854928896-1490870158-10057-A-0-1-imgplus.flv?wsSecret=308546370cd7b121a35297c4aaba17da&wsTime=628baa79&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:-1 group-title="网络", b站德云(csgo)
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/799022/live_384942089_80975535_prohevc/index.m3u8?expires=1653193664&len=0&oi=22259999&pt=web&qn=10000&trid=1007a0a5caa151674f6b9109e735b84a385e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=25d18046f0a0c7df8cf476cd470796d1&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=57601&sl=3&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=83f34f68836d91f52b83602ea3b0fed9
-#EXTINF:-1 group-title="网络", b站捏捏(csgo)
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/625153/live_13885498_9196746/index.m3u8?expires=1653145915&len=0&oi=22241308&pt=web&qn=10000&trid=1007d6ae3088a8444416a7aa95ebd3d9a937&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=bc4c130140f5a9d17fa0e0142b05ba9a&sk=ee656122d807a63617531bc3ec062fcb&p2p_type=1&src=852096&sl=2&free_type=0&flowtype=0&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=015c95e133d07a7e744df14c6c07cb68
 #EXTINF:-1 group-title="网络", 斗鱼寅子(游戏)
 https://akm-tct.douyucdn.cn/live/71415ryinzitv.flv?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼女流(游戏)
