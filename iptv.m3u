@@ -396,19 +396,17 @@ https://live.52sf.ga/huya/adgll
 #EXTINF:-1 group-title="网络", 斗鱼锤子(csgo)
 https://akm-tct.douyucdn.cn/live/293829rQRs7AEkbG.xs?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼玩机器直播(csgo)
-https://akm-tct.douyucdn.cn/live/6979222rcDuHxDoI.flv?uuid=
+https://akm-tct.douyucdn.cn/live/6979222rluSlS6pj.flv?uuid=
 #EXTINF:-1 group-title="网络", 斗鱼玩机器录像(csgo)
 https://akm-tct.douyucdn.cn/live/6979222rxC3Ltzsa.flv?uuid=
 #EXTINF:-1 group-title="网络", 虎牙ququ(csgo)
 https://live.52sf.ga/huya/ququ1
 #EXTINF:-1 group-title="网络", B站捏捏(csgo)
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/150158/live_13885498_9196746_prohevc/index.m3u8?expires=1653407898&len=0&oi=22241412&pt=web&qn=10000&trid=1007c3a614baad9445efafd29a9e42bdd26d&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=34d27a8a202c5f4d2661b2bf09d50f87&sk=39885c39af61c25c95dd0353297503f6&p2p_type=1&src=852096&sl=1&free_type=0&flowtype=0&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=6abe3e12448ec978f42e12b9ccd0c905
+https://live.52sf.ga/bilibili/5584387
 #EXTINF:-1 group-title="网络", 斗鱼婷哥(csgo)
 https://akm-tct.douyucdn.cn/live/1945078rCmkTiT34.flv?uuid=
 #EXTINF:-1 group-title="网络", B站德云两鬼(csgo)
 https://live.52sf.ga/bilibili/22889518
-
-
 
 
 #EXTINF:-1 group-title="网络", 斗鱼寅子(游戏)
@@ -423,6 +421,8 @@ https://live.52sf.ga/huya/chuhe
 https://live.52sf.ga/huya/dongerlol
 #EXTINF:-1 group-title="网络", B站子衿(游戏)
 https://live.52sf.ga/bilibili/23718393
+#EXTINF:-1 group-title="网络", B站v猫诺v(游戏)
+https://live.52sf.ga/bilibili/308543
 
 #EXTINF:-1 group-title="网络", 虎牙英雄联盟赛事(lol)
 https://live.52sf.ga/huya/lpl
@@ -432,8 +432,7 @@ https://live.52sf.ga/bilibili/6
 #EXTINF:-1 group-title="网络", 虎牙坏空空(跳舞)
 https://live.52sf.ga/huya/513609
 #EXTINF:-1 group-title="网络", B站小深深(跳舞)
-https://d1--cn-gotcha208.bilivideo.com/live-bvc/589281/live_10673533_9397426_prohevc/index.m3u8?expires=1653407713&len=0&oi=22241412&pt=web&qn=10000&trid=10075055b4dea1854f34ba4e6835e5c1d691&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=51d1ad692251df44ba90e71f6c4598c4&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=1&src=57345&sl=3&free_type=0&flowtype=1&machinezone=jd&pp=srt&source=onetier&order=1&site=0f030e7ef3ef2fe4a91b5d96cddea291
-
+https://live.52sf.ga/bilibili/3325
 
 
 
